@@ -14,7 +14,7 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "resolutions": {
-    "graphql": "16.6.0"
+    "graphql": "16.8.1"
   },
   "dependencies": {
     "react-medium-image-zoom": "5.1.8",
@@ -41,7 +41,7 @@
     "gatsby-source-filesystem": "5.10.0",
     "gatsby-transformer-remark": "6.10.0",
     "glob": "10.2.6",
-    "graphql": "16.6.0",
+    "graphql": "16.8.1",
     "marked": "5.0.2",
     "numbro": "2.3.6",
     "parser-front-matter": "1.6.4",
